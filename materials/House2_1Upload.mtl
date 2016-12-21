@@ -1,0 +1,179 @@
+# Blender MTL File: 'House2_1Upload.blend'
+# Material Count: 17
+
+newmtl Brick
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.005263 0.005263 0.005263
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\GreyBricks.jpg
+
+newmtl DoorType1_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\DoorType1_2.jpg
+
+newmtl GreyBrick2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\GreyBricks.jpg
+
+newmtl LogEdgeWeathered
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\TreeLogEdgeWeathered.jpg
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Texture\Wood.jpg
+
+newmtl None_Wood.jpg.006
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Texture\Wood.jpg
+
+newmtl Plaster
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\Plaster.jpg
+
+newmtl RoofTiles
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.002039 0.002039 0.002039
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\RoofTiles.jpg
+
+newmtl RoofTiles_RoofTiles.jpg.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.002039 0.002039 0.002039
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\RoofTiles.jpg
+
+newmtl RustedMetal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.047368 0.047368 0.047368
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\RustedMetal.jpg
+
+newmtl RustedMetal_Rusted_Metal.jpg.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.047368 0.047368 0.047368
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\RustedMetal.jpg
+
+newmtl RustedMetal_Rusted_Metal.jpg.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.047368 0.047368 0.047368
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\RustedMetal.jpg
+
+newmtl Stone
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\Stone.jpg
+
+newmtl WindowBlue1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.025000 0.025000 0.025000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\WindowBlue1.jpg
+
+newmtl WindowBlue2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.025000 0.025000 0.025000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\WindowsBlue2.jpg
+
+newmtl Wood
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.075701 0.033259 0.012597
+Ks 0.000275 0.000105 0.000070
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\Wood.jpg
+
+newmtl Wood_Wood.jpg.011
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.075701 0.033259 0.012597
+Ks 0.000275 0.000105 0.000070
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\Wood.jpg
+
+newmtl (null)
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.075701 0.033259 0.012597
+Ks 0.000275 0.000105 0.000070
+Ni 1.000000
+d 1.000000
+illum 2
